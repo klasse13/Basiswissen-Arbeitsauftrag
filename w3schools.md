@@ -82,7 +82,6 @@
 + Filter DIVs https://www.w3schools.com/howto/howto_js_filter_elements.asp
 + Filter Dropdown https://www.w3schools.com/howto/howto_js_filter_dropdown.asp
 + Animierte Searchbar https://www.w3schools.com/howto/howto_css_animated_search.asp
-+ 
 + Searchbar in Navbar https://www.w3schools.com/howto/howto_css_input_navbar.asp
 + Autocomplete https://www.w3schools.com/howto/howto_js_autocomplete.asp
 + Capslock detect https://www.w3schools.com/howto/howto_js_detect_capslock.asp
