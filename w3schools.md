@@ -1,12 +1,16 @@
 # Roundups
 + Buttons https://www.w3schools.com/css/css3_buttons.asp
 + Icons https://www.w3schools.com/icons/default.asp
++ Website Layout https://www.w3schools.com/howto/howto_make_a_website.asp
++ Verschiedene Geräte https://www.w3schools.com/howto/howto_css_devices.asp
 
 # Allgemein 
 + Responsiver Text https://www.w3schools.com/howto/howto_css_responsive_text.asp
 + Sticky Elemente https://www.w3schools.com/howto/howto_css_sticky_element.asp
 + Gleiche Höhe https://www.w3schools.com/howto/howto_css_equal_height.asp
 + Clearfix https://www.w3schools.com/howto/howto_css_clearfix.asp
++ Timer (Zeit bis Abi) https://www.w3schools.com/howto/howto_js_countdown.asp
++ Download Links https://www.w3schools.com/howto/howto_html_download_link.asp
 
 # Hauptseite / alle Seiten 
 + Vertikales Menü https://www.w3schools.com/howto/howto_css_vertical_menu.asp 
@@ -64,6 +68,11 @@
 
 ## Karteikarten
 + Karte drehen https://www.w3schools.com/howto/howto_css_flip_card.asp
++ Animationen https://www.w3schools.com/howto/howto_css_flip_box.asp
++ Toggle Element https://www.w3schools.com/howto/howto_js_toggle_hide_show.asp
++ Element tauschen https://www.w3schools.com/howto/howto_js_toggle_text.asp
++ Toggle Class https://www.w3schools.com/howto/howto_js_toggle_class.asp
++ Toggle activity https://www.w3schools.com/howto/howto_js_active_element.asp
 
 ## Tabs
 + Kleine Tabs https://www.w3schools.com/howto/howto_js_tabs.asp
